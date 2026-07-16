@@ -276,6 +276,17 @@ const ambassadors: Ambassador[] = [
     children:
       'Felipe is a bioinformatician at <a href="https://www.zs.com/careers/where-we-work/europe/copenhagen" target="_blank" >ZS</a >. He is involved in projects related to pipelines, promoting and facilitating the use of Nextflow with guidance and trainings, when fit. Also an active <a href="https://nf-co.re/" target="_blank" >nf-core</a> member.',
   },
+    {
+    name: "Fernando Falat",
+    img: "fernando_falat.jpg",
+    country: "br",
+    github: "falatfernando",
+    linkedin: "fernandofalat",
+    twitter: "",
+    title: "Nextflow Ambassador",
+    children:
+      'Fernando is a Senior Solutions Architect and Genomic Data Scientist, currently pursuing his MSc at the University of São Paulo, Brazil. His interests include bioinformatics software development, scalable pipelines, and genomic data analysis.',
+  },
   {
     name: "Firas Zemzem",
     img: "FirasZemzem.jpg",
